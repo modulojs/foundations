@@ -98,7 +98,6 @@ show the huge variety of new things you can build with your new skills:
 
 
 #### 1.2 - Gettin' Stylish
-
 - Activity 1 - More HTML tags: img (to absolute path), a (to absolute link)
 - Activity 2 - Spacing - margin, padding
 - Activity 3 - Sizing and centering - Width, height, and `margin: auto`
