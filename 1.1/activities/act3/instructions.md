@@ -4,7 +4,7 @@ While we can produce some simple content, our HTML is very boring to look at.
 We'll now learn the CSS programming language, which is the coding language that
 we use to specify the style and appearance of our HTML.
 
-- CSS - CSS, an acryonym for the older term *Cascading Style Sheets*, is
+- CSS - CSS, an acronym for the older term *Cascading Style Sheets*, is
   another coding language which allows creation of designs, specifications of
   colors and sizes, and much more. Without CSS, HTML is mostly black-and-white
   and has no interesting layout or appearance. With CSS, HTML gets displayed

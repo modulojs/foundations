@@ -88,7 +88,7 @@ show the huge variety of new things you can build with your new skills:
 
 ### Part 1
 
-#### 1.1 - HTML and CSS
+#### 1.1
 
 - Activity 1 - Intro to HTML H1-tag
 - Activity 2 - More HTML tags, p-tag, h1-H4-tag
@@ -97,16 +97,18 @@ show the huge variety of new things you can build with your new skills:
   colors)
 
 
-#### 1.2 - Gettin' Stylish
+#### 1.2
 - Activity 1 - More HTML tags: img (to absolute path), a (to absolute link)
-- Activity 2 - Spacing - margin, padding
-- Activity 3 - Sizing and centering - Width, height, and `margin: auto`
+- Activity 2 - Sizing - font-size, margin, padding
+- Activity 3 - First Layout - Centered - Width and `margin: auto` to make
+  centered layouts
 - Activity 4 - Gradients and box shadows - Learn how to make box shadows and
   gradient backgrounds
 
+
 ### Part 2
 
-#### 2.1 - Multiple pages
+#### 2.1
 
 - Activity 1 - Nested tags, indentation, tables, and lists
 - Activity 2 - Relative paths (Linking local elements for multi-page layouts)
@@ -115,7 +117,7 @@ show the huge variety of new things you can build with your new skills:
 - Activity 4 - HTML tag marathon: Semantic tags, div, and span
 
 
-#### 2.2 - CSS Layout
+#### 2.2
 
 - Activity 1 - CSS Classes
 - Activity 2 - Position flex: Show how to make things stack horizontally
@@ -128,7 +130,7 @@ show the huge variety of new things you can build with your new skills:
 
 ### Part 3
 
-#### 3.1 - Tailwind
+#### 3.1
 
 - Activity 1 - Fonts and CDNs (Learn font-family and how to use Google Fonts)
 - Activity 2 - Intro to Tailwind
@@ -136,7 +138,7 @@ show the huge variety of new things you can build with your new skills:
 - Activity 4 - Tailwind Layouts
 
 
-#### 3.2 - Forms and Netlify
+#### 3.2
 
 - Activity 1 - HTML form tags
 - Activity 2 - Tailwind styled forms
@@ -146,7 +148,7 @@ show the huge variety of new things you can build with your new skills:
 
 ### Part 4
 
-#### 4.1 - Modulo Components
+#### 4.1
 
 - Activity 1 - Hello Modulo World - Including Modulo and defining your first
   component (Template and Style)
@@ -157,7 +159,7 @@ show the huge variety of new things you can build with your new skills:
   a library file
 
 
-#### 4.2 - Advanced Modulo
+#### 4.2
 
 - Activity 1 - StaticData - How to import JSON, CSV, or text data into your
   component
