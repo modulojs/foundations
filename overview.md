@@ -7,6 +7,10 @@ activities or projects to build. The third lesson of each part is called a
 *Project Lab*, because it is focused on combining the skills of the previous
 two lessons into several larger and more practical projects.
 
+**Work In Progress:** This course is in "early access". Presently, Part 1 is
+mostly complete, while Parts 2 through 4 are still in heavy development and are
+in varying levels of completion.
+
 ## Course Sections
 
 ### Part 1 - Single Page Sites
