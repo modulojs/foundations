@@ -92,6 +92,10 @@ display the following information:
         15. Beatriz Haddad
 
 
+* Hint 1: Watch out for accidentally leaving in duplicate numbers. You don't
+  want it to say "1. 1. Iga Swiatek"!
+
+
 ----------------------------------
 
 

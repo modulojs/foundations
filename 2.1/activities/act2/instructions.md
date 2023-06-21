@@ -90,9 +90,3 @@ three biography pages have a "back link" going back to index.html
 
 
 
-Challenge 2: Linking HTML
-----------------------------------
-
-
-
-
