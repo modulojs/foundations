@@ -26,8 +26,9 @@ designs, even learning how to integrate plug-ins that permit e-commerce, audio,
 video, and more:
 
 * [Personal Landing Page (like "Link Tree")](https://modulojs.github.io/foundations/1.3/solutions/project_1.html)
-* [Small Business Page](https://modulojs.github.io/foundations/1.3/solutions/project_2.html)
-* [Artist or Creative Page](https://modulojs.github.io/foundations/1.3/solutions/project_2.html)
+* [Launch Page](https://modulojs.github.io/foundations/1.3/solutions/project_2.html)
+* [Local Page](https://modulojs.github.io/foundations/1.3/solutions/project_3.html)
+* [Artist or Creative Page](https://modulojs.github.io/foundations/1.3/solutions/project_4.html)
 
 
 
