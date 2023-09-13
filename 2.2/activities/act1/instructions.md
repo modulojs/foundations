@@ -48,7 +48,7 @@ Now it's time to fix a common mistake.
 
 * Objective: Get practice fixing missing "." in class selects.
 
-1. Open [challenge1.html](./challenge1.html) in your text editor and browser.
+1. Open [challenge2.html](./challenge2.html) in your text editor and browser.
 
 2. Examine the existing code.
 
@@ -71,7 +71,7 @@ guess what goes in the blanks?
 
 * Objective: Get practice fixing missing "." in class selects.
 
-1. Open [challenge1.html](./challenge1.html) in your text editor and browser.
+1. Open [challenge3.html](./challenge3.html) in your text editor and browser.
 
 2. Examine the existing code.
 
@@ -91,9 +91,9 @@ Challenge 4: Combining Classes
 
 Now let's practice giving two classes to the same elemnet.
 
-* Objective: Get practice fixing missing "." in class selects.
+* Objective: Get practice editing class attributes to include two classes total
 
-1. Open [challenge1.html](./challenge1.html) in your text editor and browser.
+1. Open [challenge4.html](./challenge4.html) in your text editor and browser.
 
 2. Examine the existing code.
 
