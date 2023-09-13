@@ -72,7 +72,7 @@ files.
 [photos.html](./ch1ch2/photos.html) file in your text editor and
 [browser](../act3/ch1ch2/index.html)
 
-4. Examine the existing code & observe the results in your browser
+2. Examine the existing code & observe the results in your browser
     - It has many of the "boilerplate" code that forms the standard structure
       for "proper" HTML documents. This includes the `<!DOCTYPE html>` at the
       top, the `<html>`, `<head>`, `<body>`, and `<meta>`
@@ -162,16 +162,17 @@ Observe how it is not displaying the styling.
 
 
 
-Challenge 4: Adding a stylesheet on top
+Challenge 4: Authoring an extra stylesheet
 ----------------------------------
 
 Finally, we'll practice putting it all together with adding a stylesheet "on
 top of" another stylesheet. This is very useful for adding further
 customizations to other people's code, or ones that only apply to some pages.
-Furthermore, it lets you split up your CSS files.
+Furthermore, it lets you split up your CSS file: Sometimes its neater to keep
+stuff in separate files!
 
 * Objective: Learn how to add an "extra layer" of customizing CSS on top of an
-  existing stylesheet.
+  existing stylesheet to make the `p` tags yellow.
 
 
 1. Navigate to the `ch3ch4` directory. Open one of the HTML files again in your
@@ -179,15 +180,20 @@ editor and browser.
 
 2. In your text editor, create a new brand new CSS file called `extrastyle.css`
     - This will be the file where we will put our "extra" styles
-    - Put it next to the 
+    - Put it next to the existing `mystyle.css`
 
-3. Create a new link in the HTML file, looking
-    - This will be the file where we will put our "extra" styles
+3. Write a `p { color: yellow }` style into your new file
+
+4. Create a new **link** tag in the HTML file linking the new file.
+    - Make it look just like the other one, except with a different file name
+    - Put it after the other one
+5. Finally, once you confirm it working on one HTML, copy the boilerplate to
+the other HTML
 
 
-- **Note:** It could be called anything or put in any directory, but then it
-  would be referenced differnetly, e.g. if it were put into a directory called
-  `some/directory/path`, the result would be something like `<link
-  rel="stylsheet" src="/some/other/directory/extrastyle.css">`
+- **Note:** It could be named any other filename, or put in any directory
+  (folder), but then it would be referenced differently, e.g. if it were put
+  into a directory  (folder) called `some/directory/path`, the result would be
+  something like `<link rel="stylsheet" src="some/directory/extrastyle.css">`
 
 

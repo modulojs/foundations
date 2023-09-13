@@ -44,8 +44,8 @@ in under 2 hours each, you will have the skills to build more complicated
 websites, complete with menus, navigations, subpages, article pages,
 integrations with Shopify, and more:
 
-* [Corporate Page](#)
-* [Tech Blog](#)
+* [Video Game Blog](#)
+* [Corporate Site](#)
 * [Online Store](#)
 
 
